@@ -13,7 +13,7 @@ I'm always trying to grow and learn something new. I lose track of time when I'm
 Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
 BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang).
 
-### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃✔
+### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
