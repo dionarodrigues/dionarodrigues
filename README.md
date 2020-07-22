@@ -15,6 +15,9 @@ BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-
 
 ### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
 <!-- BLOG-POST-LIST:START -->
+- [6 Powerful CSS Techniques You Can Use Instead of Javascript](https://dev.to/diogorodrigues/6-powerful-css-techniques-you-can-use-instead-of-javascript-2f44)
+- [How to become a great front-end developer](https://dev.to/diogorodrigues/how-to-become-a-great-front-end-developer-1fom)
+- [Creating amazing GitHub profiles README](https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
