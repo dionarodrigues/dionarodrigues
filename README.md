@@ -11,11 +11,11 @@ BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-
 
 ### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
 <!-- BLOG-POST-LIST:START -->
+- [Automating the Github workflow for any project](https://dev.to/diogorodrigues/automating-the-github-workflow-for-any-project-33kf)
 - [Tips and resources on how to improve your UI design skills](https://dev.to/diogorodrigues/tips-and-resources-on-how-to-improve-your-ui-design-skills-29i3)
 - [Which type of Front-end developer am I?](https://dev.to/diogorodrigues/which-type-of-front-end-developer-am-i-2a56)
 - [CSS-in-JS and the death of traditional CSS](https://dev.to/diogorodrigues/css-in-js-and-the-death-of-traditional-css-1cop)
 - [6 Powerful CSS Techniques You Can Use Instead of Javascript](https://dev.to/diogorodrigues/6-powerful-css-techniques-you-can-use-instead-of-javascript-2f44)
-- [How to become a great front-end developer](https://dev.to/diogorodrigues/how-to-become-a-great-front-end-developer-1fom)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
