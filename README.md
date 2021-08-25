@@ -11,11 +11,11 @@ BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-
 
 ### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
 <!-- BLOG-POST-LIST:START -->
+- [Modern starter for Next.js applications written in TypeScript and more](https://dev.to/diogorodrigues/modern-starter-for-next-js-applications-written-in-typescript-and-more-224d)
 - [What I have learned by working remotely in this pandemic period](https://dev.to/diogorodrigues/what-i-have-learned-by-working-remotely-in-this-pandemic-period-2ehm)
 - [How to apply emotional design in your projects](https://dev.to/diogorodrigues/how-to-apply-emotional-design-in-your-projects-798)
 - [Automating UI tests with Jest and React Testing Library](https://dev.to/diogorodrigues/automating-ui-tests-with-jest-and-react-testing-library-28fb)
 - [Inspiring web designers and developers to follow on Twitter](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
-- [Why I decided to develop my site in Gatsby](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
