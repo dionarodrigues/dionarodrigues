@@ -6,8 +6,8 @@ Since 2009 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
-BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang).
+Currently improving my React skills, specially NextJS.<br />
+BTW, if you´re looking for a Next.js starter, take a look at this [Next.js boilerplate that I created](https://github.com/diogorodrigues/nextjs-typescript-starter).
 
 ### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
 <!-- BLOG-POST-LIST:START -->
