@@ -23,4 +23,4 @@ BTW, if you´re looking for a Next.js starter, take a look at this [Next.js boil
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/dionarodrigues/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_dionarodrigues)
 
 
-**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
+**[dionarodrigues.dev](https://www.dionarodrigues.dev/)**
