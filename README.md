@@ -1,22 +1,37 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello, I'm [Diona Rodrigues](https://www.dionarodrigues.dev/about)!
 
-I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Dublin, Ireland.
+I am a **Senior Product Engineer** based in Dublin, Ireland. I bridge the gap between complex UI/UX design and scalable, high-performance code.
+Since 2009, I’ve been crafting user-centric web solutions. My expertise lies in taking full ownership of the frontend lifecycle—from initial design systems to robust, tested production code. ✨
 
-Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+### Technical Focus & Architecture 
 
-### What I'm focusing on 👨‍💻
+I specialize in building resilient React applications with a focus on performance and developer velocity:
 
-Currently improving my React skills, specially NextJS.<br />
-BTW, if you´re looking for a Next.js starter, take a look at this [Next.js boilerplate that I created](https://github.com/dionarodrigues/nextjs-typescript-starter).
+*   **Core Stack**: Expert-level **React** and **Next.js 15+** (App Router & Server Components).
+*   **State Management**: Architecting hybrid state solutions using **Redux Toolkit (RTK)** for complex logic and **TanStack Query** for server-state.
+*   **Quality Assurance**: Committed to "zero-regression" deployments using **Cypress** for end-to-end testing (and studying Playwright).
+*   **AI-Augmented Workflow**: Leveraging **GitHub Copilot** and AI-driven tools to accelerate refactoring, unit testing, and boilerplate management.
 
-### My most recent posts on [dev.to](https://dev.to/dionarodrigues) 😃🧾
-<!-- BLOG-POST-LIST:START -->
-- [Modern starter for Next.js applications written in TypeScript and more](https://dev.to/dionarodrigues/modern-starter-for-next-js-applications-written-in-typescript-and-more-224d)
-- [What I have learned by working remotely in this pandemic period](https://dev.to/dionarodrigues/what-i-have-learned-by-working-remotely-in-this-pandemic-period-2ehm)
-- [How to apply emotional design in your projects](https://dev.to/dionarodrigues/how-to-apply-emotional-design-in-your-projects-798)
-- [Automating UI tests with Jest and React Testing Library](https://dev.to/dionarodrigues/automating-ui-tests-with-jest-and-react-testing-library-28fb)
-- [Inspiring web designers and developers to follow on Twitter](https://dev.to/dionarodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
-<!-- BLOG-POST-LIST:END -->
+
+### Featured Technical Writing
+
+Selected articles on architecture, accessibility, and modern React patterns:
+
+*   **[Migrating from Gatsby to Next.js 13: The Pros and Cons](https://dionarodrigues.dev/blog/migrating-my-site-from-gatsby-to-nextjs-13-the-pros-and-cons)**  
+    *A deep dive into architectural trade-offs, Server Components, and the evolution of the React ecosystem.*
+
+*   **[From useEffect to React Query: Modernizing Data Management](https://dionarodrigues.dev/blog/from-useeffect-to-react-query-modernizing-your-data-management-in-react)**  
+    *Strategies for moving away from heavy client-side effects toward efficient server-state synchronization.*
+
+*   **[Scaling Redux Toolkit for Large Applications](https://dionarodrigues.dev/blog/redux-toolkit-advanced-scaling-for-large-applications)**  
+    *Engineering patterns for managing complex global state in enterprise-grade React environments.*
+
+*   **[Web Accessibility: Designing for Everyone](https://dionarodrigues.dev/blog/web-accessibility-how-to-design-web-pages-for-everyone)**  
+    *Why inclusive design is a core engineering requirement, focusing on WCAG standards and semantic HTML.*
+
+*   **[I am proud to be a transgender IT developer](https://dionarodrigues.dev/blog/i-am-proud-to-be-a-transgender-it-developer)**  
+    *A personal reflection on authenticity, resilience, and building a more inclusive tech industry.*
+
 
 ### Find me elsewhere 🌎
 
