@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello, I'm [Diona Rodrigues](https://www.dionarodrigues.dev/about)!
 
-I am a **Senior Product Engineer** based in Dublin, Ireland. I bridge the gap between complex UI/UX design and scalable, high-performance code.
+I am a **Senior Software Engineer** based in Dublin, Ireland. I bridge the gap between complex UI/UX design and scalable, high-performance code.
 Since 2009, I’ve been crafting user-centric web solutions. My expertise lies in taking full ownership of the frontend lifecycle—from initial design systems to robust, tested production code. ✨
 
 ### Technical Focus & Architecture 
@@ -9,7 +9,7 @@ I specialize in building resilient React applications with a focus on performanc
 
 *   **Core Stack**: Expert-level **React** and **Next.js 15+** (App Router & Server Components).
 *   **State Management**: Architecting hybrid state solutions using **Redux Toolkit (RTK)** for complex logic and **TanStack Query** for server-state.
-*   **Quality Assurance**: Committed to "zero-regression" deployments using **Cypress** for end-to-end testing (and studying Playwright).
+*   **Quality Assurance**: Committed to "zero-regression" deployments using **Cypress** for end-to-end testing.
 *   **AI-Augmented Workflow**: Leveraging **GitHub Copilot** and AI-driven tools to accelerate refactoring, unit testing, and boilerplate management.
 
 
